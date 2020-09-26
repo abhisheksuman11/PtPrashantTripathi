@@ -1,0 +1,206 @@
+{
+  "bot_id": 609517172,
+  "data": {
+    "admin": {
+      "legacy_admin": false
+    },
+    "antiflood": {
+      "action": "tmute",
+      "action_duration": 7200,
+      "flood_limit": 5
+    },
+    "blocklists": {
+      "action": "nothing",
+      "action_duration": 0,
+      "default_reason": "",
+      "filters": null,
+      "should_delete": true
+    },
+    "disabled": {
+      "disabled": null,
+      "should_delete": false
+    },
+    "filters": {
+      "filters": [
+        {
+          "data_id": "BAACAgQAAxkBBKTvG19vjO0UFYv2ebYTdeAAAZO1rC0eCQACfwcAAgfD0FKImMBZggeIJxsE",
+          "name": "the social dilemma",
+          "text": "🎬 Title : The Social Dilemma\n🎞 Year : 2020\n🔊 Language : English\n💿 Quality : 720p WEBRip\n⚠Channel:\n @movieunion",
+          "type": 3
+        },
+        {
+          "data_id": "BQACAgUAAxkBBJ_5zF9uVouiShVaPIXVveJa5pGPR-P_AAJUAQACLMr4VXFXzYuQwEmfGwQ",
+          "name": "class of 83",
+          "text": "🎬 *Class of '83 (2020)\nHindi + English WEB-DL HEVC 720p x265 631MB*",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgEAAxkBBJ_8x19uV13nW1mKOFXjxvIHwQXJoFZrAAJIAANilZhH6Smc-oK5pJ0bBA",
+          "name": "hostel daze",
+          "text": "🔷 *Hostel Daze (2019)\n🔴 720p HEVC Season 1 Complete Proper HDRip Hindi DD 5.1*\n*༺━━━━━━━━━━━━━༻\n⚠ Uploaded by* @Amazon_Prime_Video_HD",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgUAAxkBBJ_4fl9uVidb7l1vREelGrK1Icztpmn1AAJbAQACa0_IVYewwJgFYeyJGwQ",
+          "name": "woodpecker",
+          "text": "🎬 [18+] Woodpecker (2020) S01 Part 01 E01 - E04\nHindi WEB-DL 720p x264 613MB\n[📥 Direct Download Link 📥](buttonurl://https://telegram.me/GetPublicLinkBot?start=QWdBRFd3RUFBbXRQeUZV)",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgUAAx0CUeOK3wACCAFfblW1pdg6QWN-j8d5fCETciMaKwACiAADSiMIVHRMLoYidPszGwQ",
+          "name": "exorcism",
+          "text": "*🎞 The Exorcism of Emily Rose (2005) Part 3   x264 720p Multi-Audio [Hindi+Eng+Tamil*]\n❤️  Join us Oɴ Tᴇʟᴇɢʀᴀᴍ  ❤️\n📢 cнannel:🕹 @all_hit_webseries\n📢 cнannel:🕹 @all_hit_movies\n📢 cнannel:🕹 @latestmoviesstore\n📢 cнannel:🕹@newmoviezstore\n👥 groυp   : 🕹@requestmoviewebseries",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "chahiye",
+          "text": "'ha jarur'",
+          "type": 0
+        },
+        {
+          "data_id": "BAACAgQAAx0CUeOK3wACB25fblcKBZbivrvKWHWLf556wn8ptgACmwYAAsWXsFJwI8lNmI6cjxsE",
+          "name": "dhoom 3",
+          "text": "*Dhoom 3 (2013) Blu-Ray ORG Hindi 480p \n*\n \n[@Latest_Movies_1stNet](https://t.me/joinchat/AAAAAEcxTVOdAPX95uEDWg)",
+          "type": 3
+        },
+        {
+          "data_id": "BQACAgUAAxkBBJ_x919uVE-P6yn1jAxjenAUES4oz-jqAAKBAAPzLclXHujCQey50FobBA",
+          "name": "dunkrik",
+          "text": "",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgUAAx0CUeOK3wACCCVfblVy9ObIgGuYXap6vn4o3JjsPQACcQEAAvH-UVf_DaYY62W_PBsE",
+          "name": "halahal",
+          "text": "🎞 *Halahal (2020)* Hindi HDRip x264 700MB \n💎 @HindiHDmovies",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgUAAxkBBKGG1V9u3Fk3E-pcMnu6r1FZ4_16CzpRAAIKAAQhmFWbzrIiryrd7xsE",
+          "name": "hancock",
+          "text": "Hancock (2008) BDRip HQ Multi Audio #Hindi + #Tamil + #English x264 \n💎 @hindihdmovies",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgIAAx0CUeOK3wACA6hfblXUzDjRrcg_lPPtJpYB2c2ooQACDgUAAlQY4Eu0IysBI-chZxsE",
+          "name": "abhay",
+          "text": "Abhay (2019) S01 Hindi ZEE5 Complete WEB Series 480p WEB-DL 950MB.mkv\n[📥 Direct Download Link 📥](buttonurl://https://telegram.me/GetPublicLinkBot?start=QWdBRERnVUFBbFFZNEVz)",
+          "type": 8
+        },
+        {
+          "data_id": "BAACAgQAAx0CUeOK3wACCC1fblVUP3jWjuYWs-XdDr10NlWs9gACvAYAAvSmQVN9icGMJf4f_hsE",
+          "name": "asur",
+          "text": "Asur (2020) Season 1 Complete Hindi 480p HEVC\n❤️  Join us Oɴ Tᴇʟᴇɢʀᴀᴍ  ❤️\n📢 cнannel:🕹 @all_hit_webseries\n📢 cнannel:🕹 @all_hit_movies\n📢 cнannel:🕹 @latestmoviesstore\n📢 cнannel:🕹@newmoviezstore\n👥 groυp   : 🕹@requestmoviewebseries",
+          "type": 3
+        },
+        {
+          "data_id": "BQACAgEAAx0CUeOK3wACCDZfblU9Wc4NY97Es8vbzg-Y-rFSXwAClQADN5_xRhb6S4TJ5lKbGwQ",
+          "name": "ddlj",
+          "text": "*📂 Dilwale Dulhania Le Jayenge (1995) Hindi Movie 720p HEVC BluRay ESub (610MB)*\n\n❤️Join us Oɴ Tᴇʟᴇɢʀᴀᴍ  ❤️\n📢 cнannel:🕹 @all_hit_webseries\n📢 cнannel:🕹 @all_hit_movies\n📢 cнannel:🕹 @latestmoviesstore\n📢 cнannel:🕹@newmoviezstore\n👥 groυp   : 🕹@requestmoviewebseries",
+          "type": 8
+        },
+        {
+          "data_id": "BAACAgQAAx0CUeOK3wACA6RfblXmj1emoVCjVeeWUTNUqKOb7AACqQ0AAuUxsVHyLEltYO6X9BsE",
+          "name": "saho",
+          "text": "Saaho (2019) Bollywood Full Movie Hindi HEVC 720P\n\n🔥 Name : Saaho\n🔊 Language : Hindi \n📣 Quality : 720P HD\n▶️   AllWebSeriesChannel :-\n\n@dilbecharahfdvjj\n\n🙏Share \u0026 Join the channel link🙏\n https://t.me/reviewkaaddaas",
+          "type": 3
+        },
+        {
+          "data_id": "",
+          "name": "star",
+          "text": "war",
+          "type": 0
+        }
+      ]
+    },
+    "greetings": {
+      "goodbye": {
+        "data_id": "",
+        "text": "",
+        "type": 0
+      },
+      "kick_after": 0,
+      "mute_for": 0,
+      "mute_mode": "",
+      "mute_text": "",
+      "should_clean": true,
+      "should_delete_service": true,
+      "should_goodbye": true,
+      "should_kick": false,
+      "should_mute": false,
+      "should_welcome": true,
+      "welcome": {
+        "data_id": "",
+        "text": "Hi {first}, मैं rose आपका हमारे group {chatname} में स्वागत करती हूं!\n\nNote :\n\n1. Request Movies/Series Only Hindi or English because we don't understand your regional language\n\n2. Plz Request according to format\n\nFormat :\n\n#Request (Movie/Series/Anime/Standup/Cartoon - Name)\nAudio - Hindi or English (which one is available)\nIMDb details - if possible\n\n3. DON'T ASK FOR LINKS HERE\n\n4. Always Search in group before requesting.\n\n5. Pro Tip : Forward Movies to your \"saved messages\" before downloading\n[Read Rules](buttonurl://https://telegra.ph/Movie-Union-Group-Rules-08-21)",
+        "type": 0
+      }
+    },
+    "locks": {
+      "allowlisted_url": null,
+      "lock_warns": false,
+      "locks": {
+        "all": false,
+        "audio": false,
+        "bot": false,
+        "button": false,
+        "command": false,
+        "contact": false,
+        "document": false,
+        "email": false,
+        "emojigame": false,
+        "forward": false,
+        "forwardbot": false,
+        "forwardchannel": false,
+        "forwarduser": false,
+        "game": false,
+        "gif": false,
+        "inline": false,
+        "invitelink": false,
+        "location": false,
+        "phone": false,
+        "photo": false,
+        "poll": false,
+        "rtl": false,
+        "sticker": false,
+        "text": false,
+        "url": false,
+        "video": false,
+        "videonote": false,
+        "voice": false
+      }
+    },
+    "notes": {
+      "notes": [
+        {
+          "data_id": "",
+          "name": "a",
+          "text": "'abc/n[Read Rules](buttonurl://https://telegra.ph/Movie-Union-Group-Rules-08-21)'",
+          "type": 0
+        }
+      ],
+      "private_notes": false
+    },
+    "pins": {
+      "antichannelpin": false,
+      "cleanlinked": false
+    },
+    "reports": {
+      "disable_reports": false
+    },
+    "rules": {
+      "content": "#Movie_Union_Group_Rules  \n\n1. Request Movies/Series Only Hindi or English because we don't understand your regional language\n\nHow to request?\n\n(1) Go to  @movieunion\n(2) Press Start\n(3) Request according to format\n\nFormat :\n\n#Request (Movie/Series/Anime/Standup/Cartoon - Name)\nAudio - Hindi or English (which one is available)\nIMDb details - if possible\n\nNote -\n\n(1) Don't request for a movie more than once.\n\n(2) Expect no reply from the bot.\n\n(3) The title with most requests will be uploaded first.\n\n(4) Regional Movies will not be uploaded unless demand is very high.\n\n2. DON'T ASK FOR LINKS HERE\n\n3. Pro Tip : Forward Movies to your \"saved messages\" before downloading\n\n4. Don't DM anyone (Specially Admins and Girls) you will be banned from here after this.\n\n5. Always Search in group before requesting.\n\nHow to Search?\n\n(1) Go to @movieunion\n\n(2) Click on 3 dots on top right\n\n(3) Search your Series/Movie WITH CORRECT SPELLING\n\n(4) Use Arrows on Bottom right if necessary.\n\n(5) If you can't find the title with just it's name, add release year after movie/show's name or actor's name to get it easily.\n\nAdmin : @PtPrashantTripathi",
+      "send_to_chat": true
+    },
+    "translations": {
+      "lang": "en-GB"
+    },
+    "warns": {
+      "action": "ban",
+      "action_duration": 0,
+      "warn_for": 0,
+      "warn_limit": 3
+    }
+  },
+  "version": 1
+}
