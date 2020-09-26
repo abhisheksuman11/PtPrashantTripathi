@@ -1,0 +1,99 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.navbar {
+    font-size: 1.2em;
+}
+.bg-navbar {
+    background-color: #0D3247;
+}
+#home {
+    background: linear-gradient(rgba(0, 0, 0, 0.541), rgba(140, 177, 198, 0.6)),url("Ba1.jpg")no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+.landing-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #cccccc;
+}
+
+.landing-text h1{
+    font-size: 500%;
+    font-weight: 700;
+}
+h2 {
+    color: #0D3247;
+    font-weight: bold;
+    font-size: 2em;
+}
+#PersonaImg{
+    padding: 70px 0;
+    text-align: center;
+}
+#personalphoto {
+    box-shadow: 10px 10px 5px #cccccc;
+    border-radius: 55%;
+}
+#aboutsara {
+    border-radius: 15px;
+    margin: 4em 3em 0em 0em;;
+    padding: 2em;
+    box-shadow: 10px 10px 5px #cccccc;
+    text-align: left;
+}
+.media {
+    padding-top: 7%;
+}
+li.medialinks {
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px 30px;
+    color: #3b3a36;
+    border: 1px solid #3b3a36;
+    border-radius: 50%;
+    transition: .5s;
+}
+    
+li.medialinks:hover {
+    color: #1a638e;
+    border: 1px solid #1a638e;
+    transition: .5s;
+}
+#Contact {
+text-align: center;
+display: inline-block;
+height: auto;
+margin: auto;
+padding-top: 10vh;
+padding-bottom: 15vh;
+}
+#Projects {
+    padding: 10%;
+}
+#About {
+    padding-top: 15vh;
+    padding-bottom: 10vh;
+    background-color: #ffffff;
+    height: auto;
+    color:#3b3a36;
+}
+
+footer{
+    width: 100%;
+    background-color: #0D3247;
+    color: #cccccc;
+    text-align: center;
+    
+}
