@@ -132,7 +132,7 @@
       "should_welcome": true,
       "welcome": {
         "data_id": "",
-        "text": "Hi {first}, मैं rose आपका हमारे group {chatname} में स्वागत करती हूं!\n\nNote :\n\n1. Request Movies/Series Only Hindi or English because we don't understand your regional language\n\n2. Plz Request according to format\n\nFormat :\n\n#Request (Movie/Series/Anime/Standup/Cartoon - Name)\nAudio - Hindi or English (which one is available)\nIMDb details - if possible\n\n3. DON'T ASK FOR LINKS HERE\n\n4. Always Search in group before requesting.\n\n5. Pro Tip : Forward Movies to your \"saved messages\" before downloading\n[Read Rules](buttonurl://https://telegra.ph/Movie-Union-Group-Rules-08-21)",
+        "text": "Hi {username}, मैं rose आपका हमारे group {chatname} में स्वागत करती हूं!\n\nNote :\n\nPlz Request according to format\n\nFormat :\n\n#Request (Movie/Series/Anime/Standup/Cartoon - Name)\nAudio - Hindi or English (which one is available)\nIMDb details - if possible\n\nBefore downloading\n[Read Rules](buttonurl://https://telegra.ph/Movie-Union-Group-Rules-08-21)",
         "type": 0
       }
     },
